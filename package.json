@@ -2,6 +2,9 @@
   "name": "fore-coffee-menu",
   "version": "1.0.0",
   "description": "Fore Coffee Menu App",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
