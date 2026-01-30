@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Fore Coffee Menu App",
   "engines": {
-    "node": "18.x"
+    "node": "20"
   },
   "scripts": {
     "start": "react-scripts start",
