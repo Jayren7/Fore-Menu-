@@ -4,11 +4,11 @@
   "private": true,
   "description": "Fore Coffee Menu App",
   "engines": {
-    "node": "24.x"
+    "node": "18.x"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "npx react-scripts build"
   },
   "dependencies": {
     "react": "^18.2.0",
